@@ -1,0 +1,7 @@
+.venv
+.env
+__pycache__
+config/**
+var/import/**
+faiss_index_*
+!config/database.yml
